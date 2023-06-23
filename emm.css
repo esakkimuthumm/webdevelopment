@@ -1,0 +1,43 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-image: url('file:///C:/Users/Lenovo/Desktop/New%20folder/img.jpg');
+      background-size: cover;
+      height: 300px;
+      text-align: center;
+  background-color: #333;
+  color: white;
+  padding: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+text-align:left;
+color:white;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-left: 10px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+section {
+  padding: 50px 0;
+  text-align: center;
+}
+
+.container {
+  max-width:
+}
